@@ -174,3 +174,5 @@ cython_debug/
 !static/images/kitab.png
 *.json
 uv.lock
+layout-eval/
+lines-eval/
