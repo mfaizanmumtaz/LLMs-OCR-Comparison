@@ -34,4 +34,5 @@ dependencies = [
     "pdf2image==1.17.0",
     "marker-pdf==1.4.0",
     "docling==2.21.0",
+    "aiofiles>=24.1.0",
 ]
